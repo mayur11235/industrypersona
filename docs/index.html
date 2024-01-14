@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect to Azure Website</title>
+</head>
+
+<body>
+    <h1>Redirecting to Azure Website</h1>
+
+    <p>You will be redirected shortly...</p>
+
+    <script>
+        // Replace '123.45.67.89' with the actual IP address of your Azure website
+        var ipAddress = '123.45.67.89';
+
+        // Redirect to the Azure website after a delay
+        setTimeout(function () {
+            window.location.href = 'http://' + ipAddress;
+        }, 5000); // 5000 milliseconds (5 seconds)
+    </script>
+</body>
+
+</html>
