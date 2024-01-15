@@ -41,6 +41,11 @@
             border-radius: 5px;
             cursor: pointer;
         }
+
+        #errorMessage {
+            color: #ff0000;
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
@@ -50,14 +55,19 @@
         
         <!-- Add a button with an onclick event to redirect -->
         <button id="redirectButton" onclick="redirect()">Enter</button>
+
+        <!-- Display an error message if the redirection fails -->
+        <p id="errorMessage"></p>
     </div>
 
     <script>
         // Function to handle the redirection
         function redirect() {
             var ipAddress = '20.121.57.22';
-            redirectUrl = 'http://' + ipAddress + ":8501";
-             try {
+            var redirectUrl = 'http://' + ipAddress + ":8501";
+
+            // Attempt to redirect
+            try {
                 window.location.href = redirectUrl;
             } catch (error) {
                 // Display error message if redirection fails
