@@ -56,7 +56,13 @@
         // Function to handle the redirection
         function redirect() {
             var ipAddress = '20.121.57.22';
-            window.location.href = 'http://' + ipAddress + ":8501";
+            redirectUrl = 'http://' + ipAddress + ":8501";
+             try {
+                window.location.href = redirectUrl;
+            } catch (error) {
+                // Display error message if redirection fails
+                document.getElementById("errorMessage").innerText = "Failed to redirect. Please try again later.";
+            }
         }
     </script>
 </body>
