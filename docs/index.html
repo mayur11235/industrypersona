@@ -51,27 +51,23 @@
 <body>
     <div class="container">
         <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Industry Persona&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
-        <p>Click the button below to proceed.</p>
+        <p>Click the button below to proceed...</p>
         
-        <!-- Add a button with an onclick event to redirect -->
         <button id="redirectButton" onclick="redirect()">Enter</button>
 
-        <!-- Display an error message if the redirection fails -->
-        <p id="errorMessage"></p>
     </div>
 
     <script>
         // Function to handle the redirection
         function redirect() {
-            var ipAddress = '20.121.57.22';
-            var redirectUrl = 'http://' + ipAddress + ":8501";
+            var redirectUrl = 'https://www.google.com';
 
             // Attempt to redirect
             try {
-                window.location.href = redirectUrl;
+                window.location.href = 'http://20.121.57.22:8501'; // Replace with the desired IP address
             } catch (error) {
-                // Display error message if redirection fails
-                document.getElementById("errorMessage").innerText = "Failed to redirect. Please try again later.";
+                // Display error message
+                window.location.href = redirectUrl;
             }
         }
     </script>
