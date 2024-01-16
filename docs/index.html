@@ -16,7 +16,16 @@
             background: url('background.jpg') no-repeat center center fixed;
             background-size: cover;
         }
-
+        
+        footer {
+            text-align: center;
+            padding: 10px;
+            color: #3498db;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        
         .container {
             text-align: center;
             padding: 20px;
@@ -33,7 +42,6 @@
             color: #666;
         }
 
-        /* Updated styles for the button */
         #redirectButton {
             padding: 15px 25px;
             background-color: #3498db; /* Updated button color */
@@ -55,12 +63,11 @@
         <center><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Industry Personas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></center>
         <p>Click the button below to proceed.</p>
         
-        <!-- Updated button with additional styles -->
         <button id="redirectButton" onclick="redirect()">Enter</button>
     </div>
-      <footer style="text-align: center; padding: 10px; background-color: #333; color: #fff;">
-        <p>&copy; A Retrieval-Augmented Generation implementation using Llamaindex.</p>
-    </footer>
+      <footer>
+        A Retrieval-Augmented Generation implementation using LlamaIndex.
+      </footer> 
 
     <script>
         function onloadfun() {
