@@ -54,10 +54,34 @@
 
     <script>
         // Function to handle the redirection
-        function redirect() {
-            var ipAddress = '20.121.57.22';
-            window.location.href = 'http://' + ipAddress + ":8501";
+    function redirect() {
+    const ipAddress = "20.121.57.22:8501";
+
+    const timeoutPromise = new Promise((resolve, reject) => {
+        setTimeout(() => {
+            reject(new Error('Request timed out'));
+        }, 3000);
+    });
+
+    Promise.race([
+        fetch(`http://${ipAddress}`),
+        timeoutPromise
+    ])
+    .then(response => {
+        if (!response.ok) {
+        window.location.href = "maintenance.html";    
         }
+        window.location.href = ipAddress;
+        return true;
+    })
+    .then(data => {
+        window.location.href = ipAddress;
+        return true;
+    })
+    .catch(error => {
+        window.location.href = "maintenance.html";
+    });
+}
     </script>
 </body>
 </html>
