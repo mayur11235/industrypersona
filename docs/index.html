@@ -43,49 +43,23 @@
         }
     </style>
 </head>
-<body>
+<body onload="onloadfun()">
     <div class="container">
         <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Industry Persona&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
-        <p>Click the button below to proceed..</p>
+        <p>Click the button below to proceed...</p>
         
         <!-- Add a button with an onclick event to redirect -->
         <button id="redirectButton" onclick="redirect()">Enter</button>
     </div>
 
     <script>
-        // Function to handle the redirection
-    function redirect() {
-    const ipAddress = "20.121.57.22:8501";
-
-    const timeoutPromise = new Promise((resolve, reject) => {
-        setTimeout(() => {
-            reject(new Error('Request timed out'));
-        }, 5000);
-    });
-
-    Promise.race([
-        fetch(`http://${ipAddress}`),
-        timeoutPromise
-    ])
-    .then(response => {
-        if (!response.ok) {
-        alert("I am here 1")    
-        window.location.href = "maintenance.html";    
+        function onloadfun() {
+            window.location.href ="maintenance.html"
         }
-        alert("I am here 2")
-        window.location.href = ipAddress;
-        return true;
-    })
-    .then(data => {
-        alert("I am here 3")
-        window.location.href = ipAddress;
-        return true;
-    })
-    .catch(error => {
-        alert("I am here 4")
-        window.location.href = "maintenance.html";
-    });
-}
+        function redirect() {
+            var ipAddress = '20.121.57.22';
+            window.location.href = 'http://' + ipAddress + ":8501";
+        }
     </script>
 </body>
 </html>
