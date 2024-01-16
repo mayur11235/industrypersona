@@ -41,17 +41,12 @@
             border-radius: 5px;
             cursor: pointer;
         }
-
-        #errorMessage {
-            color: #ff0000;
-            margin-top: 10px;
-        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Industry Persona&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
-        <p>Click the button below to proceed!</p>
+        <p>Click the button below to proceed !!</p>
         
         <button id="redirectButton" onclick="redirect()">Enter</button>
 
@@ -63,7 +58,6 @@
             try {
                 window.location.href = 'http://20.121.57.22:8501'; 
             } catch (error) {
-                // Display error message
                 window.location.href = redirectUrl;
             }
         }
