@@ -12,8 +12,9 @@
             justify-content: center;
             height: 100vh;
             margin: 0;
-            background-color: #f0f0f0; /* Set your desired background color */
             font-family: Arial, sans-serif;
+            background: url('background.jpg') no-repeat center center fixed;
+            background-size: cover;
         }
 
         .container {
@@ -21,7 +22,7 @@
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            background-color: #fff;
+            background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background */
         }
 
         h1 {
@@ -32,14 +33,20 @@
             color: #666;
         }
 
-        /* Add new styles for the button */
+        /* Updated styles for the button */
         #redirectButton {
-            padding: 10px 20px;
-            background-color: #007BFF; /* Set your desired button color */
+            padding: 15px 25px;
+            background-color: #3498db; /* Updated button color */
             color: #fff;
             border: none;
-            border-radius: 5px;
+            border-radius: 25px;
             cursor: pointer;
+            font-size: 18px;
+            transition: background-color 0.3s ease; /* Smooth transition effect */
+        }
+
+        #redirectButton:hover {
+            background-color: #2980b9; /* Button color on hover */
         }
     </style>
 </head>
@@ -48,7 +55,7 @@
         <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Industry Persona&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
         <p>Click the button below to proceed.</p>
         
-        <!-- Add a button with an onclick event to redirect -->
+        <!-- Updated button with additional styles -->
         <button id="redirectButton" onclick="redirect()">Enter</button>
     </div>
 
