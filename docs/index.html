@@ -55,11 +55,15 @@
     <script>
         function redirect() {
             var redirectUrl = 'maintenance.html';
-            try {
-                window.location.href = 'http://20.121.57.22:8501'; 
-            } catch (error) {
+
+            // Use the onerror event to handle navigation errors
+            window.onerror = function() {
                 window.location.href = redirectUrl;
-            }
+                return true; // Prevent the default browser error handling
+            };
+
+            // Attempt to redirect
+            window.location.href = 'http://20.121.57.22:8501'; 
         }
     </script>
 </body>
