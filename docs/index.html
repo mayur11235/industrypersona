@@ -46,24 +46,17 @@
 <body>
     <div class="container">
         <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Industry Persona&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
-        <p>Click the button below to proceed !!!</p>
+        <p>Click the button below to proceed.</p>
         
+        <!-- Add a button with an onclick event to redirect -->
         <button id="redirectButton" onclick="redirect()">Enter</button>
-
     </div>
 
     <script>
+        // Function to handle the redirection
         function redirect() {
-            var redirectUrl = 'maintenance.html';
-
-            // Use the onerror event to handle navigation errors
-            window.onerror = function() {
-                window.location.href = redirectUrl;
-                return true; // Prevent the default browser error handling
-            };
-
-            // Attempt to redirect
-            window.location.href = 'http://20.121.57.22:8501'; 
+            var ipAddress = '20.121.57.22';
+            window.location.href = 'http://' + ipAddress + ":8501";
         }
     </script>
 </body>
