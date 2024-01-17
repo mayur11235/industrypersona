@@ -41,6 +41,23 @@
         p {
             color: #666;
         }
+        #message-container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background-color: #f5f5f5;
+        }
+        ul {
+        padding: 0;
+        text-align: right;
+        }
+
+        ul li {
+            font-size: 14px;
+            color: #666;
+        }
 
         #redirectButton {
             padding: 15px 25px;
@@ -61,9 +78,13 @@
 <body onload="onloadfun()">
     <div class="container">
         <center><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Industry Personas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></center>
-        <p>Click the button below to proceed.</p>
-        
+        <p>Click the button below to proceed.</p>        
         <button id="redirectButton" onclick="redirect()">Enter</button>
+        <ul>
+            <li>If you are redirected to a blank page, it's likely that the container was scaled down due to inactivity. Please try again in 5 minutes.</li>
+            <li>In case of memory or library not found issues, they should resolve on retry as the system scales out the necessary resources.</li>
+        </ul>
+    
     </div>
       <footer>
         A Retrieval-Augmented Generation implementation using LlamaIndex.
