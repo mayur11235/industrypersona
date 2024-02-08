@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sample Articles</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    article {
+      margin-bottom: 20px;
+    }
+    button {
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<article id="article1">
+  <h2>Article 1</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+  <button onclick="copyToClipboard('article1')">Copy to Clipboard</button>
+</article>
+
+<article id="article2">
+  <h2>Article 2</h2>
+  <p>Curabitur ut nulla sed massa ultrices venenatis. Mauris tempus urna augue, vel fermentum neque tincidunt quis.</p>
+  <button onclick="copyToClipboard('article2')">Copy to Clipboard</button>
+</article>
+
+<article id="article3">
+  <h2>Article 3</h2>
+  <p>Proin interdum mauris sit amet lacus luctus, vel fermentum neque tincidunt quis. Vestibulum scelerisque tortor a augue dapibus, at rutrum augue interdum.</p>
+  <button onclick="copyToClipboard('article3')">Copy to Clipboard</button>
+</article>
+
+<script>
+  function copyToClipboard(articleId) {
+    const articleContent = document.getElementById(articleId).querySelector('p').innerText;
+    const markdownText = `\`\`\`\n${articleContent}\n\`\`\``;
+
+    const textArea = document.createElement('textarea');
+    textArea.value = markdownText;
+    document.body.appendChild(textArea);
+    textArea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textArea);
+
+    alert('Copied to clipboard:\n\n' + markdownText);
+  }
+</script>
+
+</body>
+</html>
