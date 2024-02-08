@@ -6,52 +6,96 @@
   <title>Sample Articles</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
     }
+
+    header {
+      background-color: #141414;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
     article {
       margin-bottom: 20px;
     }
+
+    h2 {
+      color: #333;
+    }
+
+    p {
+      color: #555;
+    }
+
     button {
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
       cursor: pointer;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #0056b3;
     }
   </style>
 </head>
 <body>
 
-<article id="article1">
-  <h2>Article 1</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
-  <button onclick="copyToClipboard('article1')">Copy to Clipboard</button>
-</article>
+  <header>
+    <h1>Sample Articles</h1>
+  </header>
 
-<article id="article2">
-  <h2>Article 2</h2>
-  <p>Curabitur ut nulla sed massa ultrices venenatis. Mauris tempus urna augue, vel fermentum neque tincidunt quis.</p>
-  <button onclick="copyToClipboard('article2')">Copy to Clipboard</button>
-</article>
+  <main>
+    <article id="article1">
+      <h2>Article 1</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+      <button onclick="copyToClipboard('article1')">Copy to Clipboard</button>
+    </article>
 
-<article id="article3">
-  <h2>Article 3</h2>
-  <p>Proin interdum mauris sit amet lacus luctus, vel fermentum neque tincidunt quis. Vestibulum scelerisque tortor a augue dapibus, at rutrum augue interdum.</p>
-  <button onclick="copyToClipboard('article3')">Copy to Clipboard</button>
-</article>
+    <article id="article2">
+      <h2>Article 2</h2>
+      <p>Curabitur ut nulla sed massa ultrices venenatis. Mauris tempus urna augue, vel fermentum neque tincidunt quis.</p>
+      <button onclick="copyToClipboard('article2')">Copy to Clipboard</button>
+    </article>
 
-<script>
-  function copyToClipboard(articleId) {
-    const articleContent = document.getElementById(articleId).querySelector('p').innerText;
-    const markdownText = `\`\`\`\n${articleContent}\n\`\`\``;
+    <article id="article3">
+      <h2>Article 3</h2>
+      <p>Proin interdum mauris sit amet lacus luctus, vel fermentum neque tincidunt quis. Vestibulum scelerisque tortor a augue dapibus, at rutrum augue interdum.</p>
+      <button onclick="copyToClipboard('article3')">Copy to Clipboard</button>
+    </article>
+  </main>
 
-    const textArea = document.createElement('textarea');
-    textArea.value = markdownText;
-    document.body.appendChild(textArea);
-    textArea.select();
-    document.execCommand('copy');
-    document.body.removeChild(textArea);
+  <script>
+    function copyToClipboard(articleId) {
+      const articleContent = document.getElementById(articleId).querySelector('p').innerText;
 
-    alert('Copied to clipboard:\n\n' + markdownText);
-  }
-</script>
+      const textArea = document.createElement('textarea');
+      textArea.value = articleContent;
+      document.body.appendChild(textArea);
+      textArea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textArea);
+
+      alert('Copied to clipboard!');
+    }
+  </script>
 
 </body>
 </html>
