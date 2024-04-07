@@ -1,0 +1,504 @@
+,Instrument,Ticker Symbol,Company Common Name,SIC Industry Name,GICS Sector Name,ICB Industry name,ICB Sector name,Deloitte Industry Name,Ticker and Name
+0,A.N,A,Agilent Technologies Inc,Laboratory Analytical Instruments,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,A - Agilent Technologies Inc
+1,AAL.OQ,AAL,American Airlines Group Inc,"Air Transportation, Scheduled",Industrials,Consumer Discretionary,Travel and Leisure,Consumer,AAL - American Airlines Group Inc
+2,AAPL.OQ,AAPL,Apple Inc,Electronic Computers,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",AAPL - Apple Inc
+3,ABBV.N,ABBV,Abbvie Inc,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,ABBV - Abbvie Inc
+4,ABNB.OQ,ABNB,Airbnb Inc,,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,ABNB - Airbnb Inc
+5,ABT.N,ABT,Abbott Laboratories,Pharmaceutical Preparations,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,ABT - Abbott Laboratories
+6,ACGL.OQ,ACGL,Arch Capital Group Ltd,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,ACGL - Arch Capital Group Ltd
+7,ACN.N,ACN,Accenture PLC,"Business Services, Not Elsewhere Classified",Information Technology,Industrials,Industrial Support Services,"Energy, Resources & Industrials",ACN - Accenture PLC
+8,ADBE.OQ,ADBE,Adobe Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",ADBE - Adobe Inc
+9,ADI.OQ,ADI,Analog Devices Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",ADI - Analog Devices Inc
+10,ADM.N,ADM,Archer-Daniels-Midland Co,,Consumer Staples,Consumer Staples,Food Producers,Consumer,ADM - Archer-Daniels-Midland Co
+11,ADP.OQ,ADP,Automatic Data Processing Inc,Computer Processing and Data Preparation and Processing Services,Industrials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",ADP - Automatic Data Processing Inc
+12,ADSK.OQ,ADSK,Autodesk Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",ADSK - Autodesk Inc
+13,AEE.N,AEE,Ameren Corp,Electric and Other Services Combined,Utilities,Utilities,"Gas, Water and Multi-utilities",Government & Public Services,AEE - Ameren Corp
+14,AEP.OQ,AEP,American Electric Power Company Inc,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,AEP - American Electric Power Company Inc
+15,AES.N,AES,AES Corp,,Utilities,Utilities,Electricity,Government & Public Services,AES - AES Corp
+16,AFL.N,AFL,Aflac Inc,Accident and Health Insurance,Financials,Financials,Life Insurance,Financial Services,AFL - Aflac Inc
+17,AIG.N,AIG,American International Group Inc,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,AIG - American International Group Inc
+18,AIZ.N,AIZ,Assurant Inc,"Insurance Carriers, Not Elsewhere Classified",Financials,Financials,Non-life Insurance,Financial Services,AIZ - Assurant Inc
+19,AJG.N,AJG,Arthur J. Gallagher & Co.,"Insurance Agents, Brokers, and Service",Financials,Financials,Non-life Insurance,Financial Services,AJG - Arthur J. Gallagher & Co.
+20,AKAM.OQ,AKAM,Akamai Technologies Inc,"Business Services, Not Elsewhere Classified",Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",AKAM - Akamai Technologies Inc
+21,ALB.N,ALB,Albemarle Corp,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Easton",Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",ALB - Albemarle Corp
+22,ALGN.OQ,ALGN,Align Technology Inc,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,ALGN - Align Technology Inc
+23,ALL.N,ALL,Allstate Corp,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,ALL - Allstate Corp
+24,ALLE.N,ALLE,Allegion PLC,"Detective, Guard, and Armored Car Services",Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",ALLE - Allegion PLC
+25,AMAT.OQ,AMAT,Applied Materials Inc,,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",AMAT - Applied Materials Inc
+26,AMCR.N,AMCR,Amcor PLC,,Materials,Industrials,General Industrials,"Energy, Resources & Industrials",AMCR - Amcor PLC
+27,AMD.OQ,AMD,Advanced Micro Devices Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",AMD - Advanced Micro Devices Inc
+28,AME.N,AME,AMETEK Inc,"Industrial Instruments For Measurement, Display, and Control of Process Variables; and Related Products",Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",AME - AMETEK Inc
+29,AMGN.OQ,AMGN,Amgen Inc,"Biological Products, Except Diagnostic Substances",Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,AMGN - Amgen Inc
+30,AMP.N,AMP,Ameriprise Financial Inc,Investment Advice,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,AMP - Ameriprise Financial Inc
+31,AMT.N,AMT,American Tower Corp,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,AMT - American Tower Corp
+32,AMZN.OQ,AMZN,Amazon.com Inc,Catalog and Mail- Order houses,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,AMZN - Amazon.com Inc
+33,ANET.N,ANET,Arista Networks Inc,Computer Communications Equipment,Information Technology,Telecommunications,Telecommunications Equipment,"Technology, Media & Telecommunications",ANET - Arista Networks Inc
+34,ANSS.OQ,ANSS,ANSYS Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",ANSS - ANSYS Inc
+35,AON.N,AON,Aon PLC,"Insurance Agents, Brokers, and Service",Financials,Financials,Non-life Insurance,Financial Services,AON - Aon PLC
+36,AOS.N,AOS,A O Smith Corp,,Industrials,Industrials,Construction and Materials,"Energy, Resources & Industrials",AOS - A O Smith Corp
+37,APA.OQ,APA,APA Corp (US),Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",APA - APA Corp (US)
+38,APD.N,APD,Air Products and Chemicals Inc,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",APD - Air Products and Chemicals Inc
+39,APH.N,APH,Amphenol Corp,Electronic Connectors,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",APH - Amphenol Corp
+40,APTV.N,APTV,Aptiv PLC,Motor Vehicle Parts and Accessories,Consumer Discretionary,Consumer Discretionary,Automobiles and Parts,Consumer,APTV - Aptiv PLC
+41,ARE.N,ARE,Alexandria Real Estate Equities Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,ARE - Alexandria Real Estate Equities Inc
+42,ATO.N,ATO,Atmos Energy Corp,Natural Gas Distribution,Utilities,Utilities,"Gas, Water and Multi-utilities",Government & Public Services,ATO - Atmos Energy Corp
+43,AVB.N,AVB,Avalonbay Communities Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,AVB - Avalonbay Communities Inc
+44,AVGO.OQ,AVGO,Broadcom Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",AVGO - Broadcom Inc
+45,AVY.N,AVY,Avery Dennison Corp,,Materials,Basic Materials,Industrial Materials,"Energy, Resources & Industrials",AVY - Avery Dennison Corp
+46,AWK.N,AWK,American Water Works Company Inc,Water Supply,Utilities,Utilities,"Gas, Water and Multi-utilities",Government & Public Services,AWK - American Water Works Company Inc
+47,AXON.OQ,AXON,Axon Enterprise Inc,,Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",AXON - Axon Enterprise Inc
+48,AXP.N,AXP,American Express Co,,Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",AXP - American Express Co
+49,AZO.N,AZO,Autozone Inc,Auto and Home Supply Stores,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,AZO - Autozone Inc
+50,BA.N,BA,Boeing Co,Aircraft,Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",BA - Boeing Co
+51,BAC.N,BAC,Bank of America Corp,National Commercial Banks,Financials,Financials,Banks,Financial Services,BAC - Bank of America Corp
+52,BALL.N,BALL,Ball Corp,Metal Cans,Materials,Industrials,General Industrials,"Energy, Resources & Industrials",BALL - Ball Corp
+53,BAX.N,BAX,Baxter International Inc,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,BAX - Baxter International Inc
+54,BBWI.N,BBWI,Bath & Body Works Inc,Women's Clothing Stores,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,BBWI - Bath & Body Works Inc
+55,BBY.N,BBY,Best Buy Co Inc,"Radio, Television, and Consumer Electronics Stores",Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,BBY - Best Buy Co Inc
+56,BDX.N,BDX,Becton Dickinson and Co,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,BDX - Becton Dickinson and Co
+57,BEN.N,BEN,Franklin Resources Inc,Investment Advice,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,BEN - Franklin Resources Inc
+58,BFb.N,BF.B,Brown-Forman Corp,,Consumer Staples,Consumer Staples,Beverages,Consumer,BF.B - Brown-Forman Corp
+59,BG.N,BG,Bunge Global SA,,Consumer Staples,Consumer Staples,Food Producers,Consumer,BG - Bunge Global SA
+60,BIIB.OQ,BIIB,Biogen Inc,"Biological Products, Except Diagnostic Substances",Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,BIIB - Biogen Inc
+61,BIO.N,BIO,Bio Rad Laboratories Inc,Laboratory Analytical Instruments,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,BIO - Bio Rad Laboratories Inc
+62,BK.N,BK,Bank of New York Mellon Corp,State Commercial Banks,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,BK - Bank of New York Mellon Corp
+63,BKNG.OQ,BKNG,Booking Holdings Inc,,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,BKNG - Booking Holdings Inc
+64,BKR.OQ,BKR,Baker Hughes Co,Oil and Gas Field Machinery and Equipment,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",BKR - Baker Hughes Co
+65,BLDR.N,BLDR,Builders FirstSource Inc,Lumber and Other Building Materials Dealers,Industrials,Industrials,Construction and Materials,"Energy, Resources & Industrials",BLDR - Builders FirstSource Inc
+66,BLK.N,BLK,BlackRock Inc,"Security Brokers, Dealers, and Flotation Companies",Financials,Financials,Investment Banking and Brokerage Services,Financial Services,BLK - BlackRock Inc
+67,BMY.N,BMY,Bristol-Myers Squibb Co,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,BMY - Bristol-Myers Squibb Co
+68,BR.N,BR,Broadridge Financial Solutions Inc,"Business Services, Not Elsewhere Classified",Industrials,Financials,Investment Banking and Brokerage Services,Financial Services,BR - Broadridge Financial Solutions Inc
+69,BRKb.N,BRK.B,Berkshire Hathaway Inc,"Fire, Marine, and Casualty Insurance",Financials,Financials,Investment Banking and Brokerage Services,Financial Services,BRK.B - Berkshire Hathaway Inc
+70,BRO.N,BRO,Brown & Brown Inc,"Insurance Agents, Brokers, and Service",Financials,Financials,Non-life Insurance,Financial Services,BRO - Brown & Brown Inc
+71,BSX.N,BSX,Boston Scientific Corp,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,BSX - Boston Scientific Corp
+72,BWA.N,BWA,Borgwarner Inc,Motor Vehicle Parts and Accessories,Consumer Discretionary,Consumer Discretionary,Automobiles and Parts,Consumer,BWA - Borgwarner Inc
+73,BX.N,BX,Blackstone Inc,Investment Advice,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,BX - Blackstone Inc
+74,BXP.N,BXP,Boston Properties Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,BXP - Boston Properties Inc
+75,C.N,C,Citigroup Inc,National Commercial Banks,Financials,Financials,Banks,Financial Services,C - Citigroup Inc
+76,CAG.N,CAG,Conagra Brands Inc,,Consumer Staples,Consumer Staples,Food Producers,Consumer,CAG - Conagra Brands Inc
+77,CAH.N,CAH,Cardinal Health Inc,"Drugs, Drug Proprietaries, and Druggists' Sundries",Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,CAH - Cardinal Health Inc
+78,CARR.N,CARR,Carrier Global Corp,Air- Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment,Industrials,Industrials,Construction and Materials,"Energy, Resources & Industrials",CARR - Carrier Global Corp
+79,CAT.N,CAT,Caterpillar Inc,Construction Machinery and Equipment,Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",CAT - Caterpillar Inc
+80,CB.N,CB,Chubb Ltd,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,CB - Chubb Ltd
+81,CBOE.Z,CBOE,Cboe Global Markets Inc,,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,CBOE - Cboe Global Markets Inc
+82,CBRE.N,CBRE,CBRE Group Inc,,Real Estate,Real Estate,Real Estate Investment and Services Development,Financial Services,CBRE - CBRE Group Inc
+83,CCI.N,CCI,Crown Castle Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,CCI - Crown Castle Inc
+84,CCL.N,CCL,Carnival Corp,,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,CCL - Carnival Corp
+85,CDAY.N,CDAY,Ceridian HCM Holding Inc,Prepackaged Software,Industrials,Technology,Software & Computer Services,"Technology, Media & Telecommunications",CDAY - Ceridian HCM Holding Inc
+86,CDNS.OQ,CDNS,Cadence Design Systems Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",CDNS - Cadence Design Systems Inc
+87,CDW.OQ,CDW,CDW Corp,Catalog and Mail- Order houses,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",CDW - CDW Corp
+88,CE.N,CE,Celanese Corp,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",CE - Celanese Corp
+89,CEG.OQ,CEG,Constellation Energy Corp,,Utilities,Utilities,Electricity,Government & Public Services,CEG - Constellation Energy Corp
+90,CF.N,CF,CF Industries Holdings Inc,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",CF - CF Industries Holdings Inc
+91,CFG.N,CFG,Citizens Financial Group Inc,State Commercial Banks,Financials,Financials,Banks,Financial Services,CFG - Citizens Financial Group Inc
+92,CHD.N,CHD,Church & Dwight Co Inc,,Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,CHD - Church & Dwight Co Inc
+93,CHRW.OQ,CHRW,CH Robinson Worldwide Inc,Arrangement of Transportation of Freight and Cargo,Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",CHRW - CH Robinson Worldwide Inc
+94,CHTR.OQ,CHTR,Charter Communications Inc,Cable and Other Pay Television Services,Communication Services,Telecommunications,Telecommunications Service Providers,"Technology, Media & Telecommunications",CHTR - Charter Communications Inc
+95,CI.N,CI,Cigna Group,Hospital and Medical Service Plans,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,CI - Cigna Group
+96,CINF.OQ,CINF,Cincinnati Financial Corp,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,CINF - Cincinnati Financial Corp
+97,CL.N,CL,Colgate-Palmolive Co,"Perfumes, Cosmetics, and Other Toilet Preparations",Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,CL - Colgate-Palmolive Co
+98,CLX.N,CLX,Clorox Co,"Specialty Cleaning, Polishing, and Sanitation Preparations",Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,CLX - Clorox Co
+99,CMA.N,CMA,Comerica Inc,National Commercial Banks,Financials,Financials,Banks,Financial Services,CMA - Comerica Inc
+100,CMCSA.OQ,CMCSA,Comcast Corp,Cable and Other Pay Television Services,Communication Services,Telecommunications,Telecommunications Service Providers,"Technology, Media & Telecommunications",CMCSA - Comcast Corp
+101,CME.OQ,CME,CME Group Inc,,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,CME - CME Group Inc
+102,CMG.N,CMG,Chipotle Mexican Grill Inc,Eating Places,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,CMG - Chipotle Mexican Grill Inc
+103,CMI.N,CMI,Cummins Inc,,Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",CMI - Cummins Inc
+104,CMS.N,CMS,CMS Energy Corp,Electric and Other Services Combined,Utilities,Utilities,Electricity,Government & Public Services,CMS - CMS Energy Corp
+105,CNC.N,CNC,Centene Corp,Hospital and Medical Service Plans,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,CNC - Centene Corp
+106,CNP.N,CNP,CenterPoint Energy Inc,Electric Services,Utilities,Utilities,"Gas, Water and Multi-utilities",Government & Public Services,CNP - CenterPoint Energy Inc
+107,COF.N,COF,Capital One Financial Corp,National Commercial Banks,Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",COF - Capital One Financial Corp
+108,COO.OQ,COO,Cooper Companies Inc,Ophthalmic Goods,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,COO - Cooper Companies Inc
+109,COP.N,COP,Conocophillips,Petroleum Refining,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",COP - Conocophillips
+110,COR.N,COR,Cencora Inc,"Drugs, Drug Proprietaries, and Druggists' Sundries",Health Care,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,COR - Cencora Inc
+111,COST.OQ,COST,Costco Wholesale Corp,Variety Stores,Consumer Staples,Consumer Discretionary,Retailers,Consumer,COST - Costco Wholesale Corp
+112,CPB.N,CPB,Campbell Soup Co,,Consumer Staples,Consumer Staples,Food Producers,Consumer,CPB - Campbell Soup Co
+113,CPRT.OQ,CPRT,Copart Inc,,Industrials,Consumer Discretionary,Consumer Services,Consumer,CPRT - Copart Inc
+114,CPT.N,CPT,Camden Property Trust,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,CPT - Camden Property Trust
+115,CRL.N,CRL,Charles River Laboratories International Inc,Commercial Physical and Biological Research,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,CRL - Charles River Laboratories International Inc
+116,CRM.N,CRM,Salesforce Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",CRM - Salesforce Inc
+117,CSCO.OQ,CSCO,Cisco Systems Inc,Computer Communications Equipment,Information Technology,Telecommunications,Telecommunications Equipment,"Technology, Media & Telecommunications",CSCO - Cisco Systems Inc
+118,CSGP.OQ,CSGP,CoStar Group Inc,"Business Services, Not Elsewhere Classified",Real Estate,Real Estate,Real Estate Investment and Services Development,Financial Services,CSGP - CoStar Group Inc
+119,CSX.OQ,CSX,CSX Corp,"Railroads, Line- Haul operating",Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",CSX - CSX Corp
+120,CTAS.OQ,CTAS,Cintas Corp,,Industrials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",CTAS - Cintas Corp
+121,CTLT.N,CTLT,Catalent Inc,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,CTLT - Catalent Inc
+122,CTRA.N,CTRA,Coterra Energy Inc,Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",CTRA - Coterra Energy Inc
+123,CTSH.OQ,CTSH,Cognizant Technology Solutions Corp,Computer Programming Services,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",CTSH - Cognizant Technology Solutions Corp
+124,CTVA.N,CTVA,Corteva Inc,,Materials,Consumer Staples,Food Producers,Consumer,CTVA - Corteva Inc
+125,CVS.N,CVS,CVS Health Corp,Drug Stores and Proprietary Stores,Health Care,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,CVS - CVS Health Corp
+126,CVX.N,CVX,Chevron Corp,Petroleum Refining,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",CVX - Chevron Corp
+127,CZR.OQ,CZR,Caesars Entertainment Inc,Hotels and Motels,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,CZR - Caesars Entertainment Inc
+128,D.N,D,Dominion Energy Inc,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,D - Dominion Energy Inc
+129,DAL.N,DAL,Delta Air Lines Inc,"Air Transportation, Scheduled",Industrials,Consumer Discretionary,Travel and Leisure,Consumer,DAL - Delta Air Lines Inc
+130,DD.N,DD,Dupont De Nemours Inc,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Easton",Materials,Industrials,General Industrials,"Energy, Resources & Industrials",DD - Dupont De Nemours Inc
+131,DE.N,DE,Deere & Co,Farm Machinery and Equipment,Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",DE - Deere & Co
+132,DFS.N,DFS,Discover Financial Services,Personal Credit Institutions,Financials,Financials,Banks,Financial Services,DFS - Discover Financial Services
+133,DG.N,DG,Dollar General Corp,Variety Stores,Consumer Staples,Consumer Discretionary,Retailers,Consumer,DG - Dollar General Corp
+134,DGX.N,DGX,Quest Diagnostics Inc,Medical Laboratories,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,DGX - Quest Diagnostics Inc
+135,DHI.N,DHI,DR Horton Inc,Operative Builders,Consumer Discretionary,Consumer Discretionary,Household Goods and Home Construction,Consumer,DHI - DR Horton Inc
+136,DHR.N,DHR,Danaher Corp,"Industrial Instruments For Measurement, Display, and Control of Process Variables; and Related Products",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,DHR - Danaher Corp
+137,DIS.N,DIS,Walt Disney Co,,Communication Services,Consumer Discretionary,Media,Consumer,DIS - Walt Disney Co
+138,DLR.N,DLR,Digital Realty Trust Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,DLR - Digital Realty Trust Inc
+139,DLTR.OQ,DLTR,Dollar Tree Inc,Variety Stores,Consumer Staples,Consumer Discretionary,Retailers,Consumer,DLTR - Dollar Tree Inc
+140,DOV.N,DOV,Dover Corp,,Industrials,Industrials,General Industrials,"Energy, Resources & Industrials",DOV - Dover Corp
+141,DOW.N,DOW,Dow Inc,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Easton",Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",DOW - Dow Inc
+142,DPZ.N,DPZ,Domino's Pizza Inc,,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,DPZ - Domino's Pizza Inc
+143,DRI.N,DRI,Darden Restaurants Inc,Eating Places,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,DRI - Darden Restaurants Inc
+144,DTE.N,DTE,DTE Energy Co,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,DTE - DTE Energy Co
+145,DUK.N,DUK,Duke Energy Corp,Electric and Other Services Combined,Utilities,Utilities,"Gas, Water and Multi-utilities",Government & Public Services,DUK - Duke Energy Corp
+146,DVA.N,DVA,DaVita Inc,,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,DVA - DaVita Inc
+147,DVN.N,DVN,Devon Energy Corp,Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",DVN - Devon Energy Corp
+148,DXCM.OQ,DXCM,Dexcom Inc,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,DXCM - Dexcom Inc
+149,EA.OQ,EA,Electronic Arts Inc,Prepackaged Software,Communication Services,Consumer Discretionary,Leisure Goods,Consumer,EA - Electronic Arts Inc
+150,EBAY.OQ,EBAY,eBay Inc,"Business Services, Not Elsewhere Classified",Consumer Discretionary,Consumer Discretionary,Consumer Services,Consumer,EBAY - eBay Inc
+151,ECL.N,ECL,Ecolab Inc,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",ECL - Ecolab Inc
+152,ED.N,ED,Consolidated Edison Inc,Electric and Other Services Combined,Utilities,Utilities,Electricity,Government & Public Services,ED - Consolidated Edison Inc
+153,EFX.N,EFX,Equifax Inc,,Industrials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",EFX - Equifax Inc
+154,EG.N,EG,Everest Group Ltd,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,EG - Everest Group Ltd
+155,EIX.N,EIX,Edison International,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,EIX - Edison International
+156,EL.N,EL,Estee Lauder Companies Inc,"Perfumes, Cosmetics, and Other Toilet Preparations",Consumer Staples,Consumer Discretionary,Personal Goods,Consumer,EL - Estee Lauder Companies Inc
+157,ELV.N,ELV,Elevance Health Inc,Hospital and Medical Service Plans,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,ELV - Elevance Health Inc
+158,EMN.N,EMN,Eastman Chemical Co,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Easton",Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",EMN - Eastman Chemical Co
+159,EMR.N,EMR,Emerson Electric Co,,Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",EMR - Emerson Electric Co
+160,ENPH.OQ,ENPH,Enphase Energy Inc,Semiconductors and Related Devices,Information Technology,Energy,Alternative Energy,"Energy, Resources & Industrials",ENPH - Enphase Energy Inc
+161,EOG.N,EOG,EOG Resources Inc,Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",EOG - EOG Resources Inc
+162,EPAM.N,EPAM,Epam Systems Inc,Computer Programming Services,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",EPAM - Epam Systems Inc
+163,EQIX.OQ,EQIX,Equinix Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,EQIX - Equinix Inc
+164,EQR.N,EQR,Equity Residential,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,EQR - Equity Residential
+165,EQT.N,EQT,EQT Corp,Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",EQT - EQT Corp
+166,ES.N,ES,Eversource Energy,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,ES - Eversource Energy
+167,ESS.N,ESS,Essex Property Trust Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,ESS - Essex Property Trust Inc
+168,ETN.N,ETN,Eaton Corporation PLC,,Industrials,Industrials,General Industrials,"Energy, Resources & Industrials",ETN - Eaton Corporation PLC
+169,ETR.N,ETR,Entergy Corp,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,ETR - Entergy Corp
+170,ETSY.OQ,ETSY,ETSY Inc,"Business Services, Not Elsewhere Classified",Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,ETSY - ETSY Inc
+171,EVRG.OQ,EVRG,Evergy Inc,Electric and Other Services Combined,Utilities,Utilities,Electricity,Government & Public Services,EVRG - Evergy Inc
+172,EW.N,EW,Edwards Lifesciences Corp,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,EW - Edwards Lifesciences Corp
+173,EXC.OQ,EXC,Exelon Corp,Electric and Other Services Combined,Utilities,Utilities,Electricity,Government & Public Services,EXC - Exelon Corp
+174,EXPD.N,EXPD,Expeditors International of Washington Inc,Arrangement of Transportation of Freight and Cargo,Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",EXPD - Expeditors International of Washington Inc
+175,EXPE.OQ,EXPE,Expedia Group Inc,,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,EXPE - Expedia Group Inc
+176,EXR.N,EXR,Extra Space Storage Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,EXR - Extra Space Storage Inc
+177,F.N,F,Ford Motor Co,Motor Vehicles and Passenger Car Bodies,Consumer Discretionary,Consumer Discretionary,Automobiles and Parts,Consumer,F - Ford Motor Co
+178,FANG.OQ,FANG,Diamondback Energy Inc,Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",FANG - Diamondback Energy Inc
+179,FAST.OQ,FAST,Fastenal Co,,Industrials,Basic Materials,Industrial Metals and Mining,"Energy, Resources & Industrials",FAST - Fastenal Co
+180,FCX.N,FCX,Freeport-McMoRan Inc,,Materials,Basic Materials,Industrial Metals and Mining,"Energy, Resources & Industrials",FCX - Freeport-McMoRan Inc
+181,FDS.N,FDS,Factset Research Systems Inc,,Financials,Financials,Finance and Credit Services,Financial Services,FDS - Factset Research Systems Inc
+182,FDX.N,FDX,FedEx Corp,Air Courier Services,Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",FDX - FedEx Corp
+183,FE.N,FE,FirstEnergy Corp,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,FE - FirstEnergy Corp
+184,FFIV.OQ,FFIV,F5 Inc,Computer Communications Equipment,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",FFIV - F5 Inc
+185,FI.N,FI,Fiserv Inc,"Business Services, Not Elsewhere Classified",Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",FI - Fiserv Inc
+186,FICO.N,FICO,Fair Isaac Corp,"Business Services, Not Elsewhere Classified",Information Technology,Industrials,Industrial Support Services,"Energy, Resources & Industrials",FICO - Fair Isaac Corp
+187,FIS.N,FIS,Fidelity National Information Services Inc,"Business Services, Not Elsewhere Classified",Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",FIS - Fidelity National Information Services Inc
+188,FITB.OQ,FITB,Fifth Third Bancorp,State Commercial Banks,Financials,Financials,Banks,Financial Services,FITB - Fifth Third Bancorp
+189,FLT.N,FLT,Fleetcor Technologies Inc,"Business Services, Not Elsewhere Classified",Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",FLT - Fleetcor Technologies Inc
+190,FMC.N,FMC,FMC Corp,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",FMC - FMC Corp
+191,FOX.OQ,FOX,Fox Corp,Television Broadcasting Stations,Communication Services,Consumer Discretionary,Media,Consumer,FOX - Fox Corp
+192,FOXA.OQ,FOXA,Fox Corp,Television Broadcasting Stations,Communication Services,Consumer Discretionary,Media,Consumer,FOXA - Fox Corp
+193,FRT.N,FRT,Federal Realty Investment Trust,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,FRT - Federal Realty Investment Trust
+194,FSLR.OQ,FSLR,First Solar Inc,Semiconductors and Related Devices,Information Technology,Energy,Alternative Energy,"Energy, Resources & Industrials",FSLR - First Solar Inc
+195,FTNT.OQ,FTNT,Fortinet Inc,"Computer Peripheral Equipment, Not Elsewhere Classified",Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",FTNT - Fortinet Inc
+196,FTV.N,FTV,Fortive Corp,"Industrial Instruments For Measurement, Display, and Control of Process Variables; and Related Products",Industrials,Industrials,General Industrials,"Energy, Resources & Industrials",FTV - Fortive Corp
+197,GD.N,GD,General Dynamics Corp,,Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",GD - General Dynamics Corp
+198,GE.N,GE,General Electric Co,,Industrials,Industrials,General Industrials,"Energy, Resources & Industrials",GE - General Electric Co
+199,GEHC.OQ,GEHC,GE Healthcare Technologies Inc,X- Ray apparatus and Tubes and Related Irradiation Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,GEHC - GE Healthcare Technologies Inc
+200,GEN.OQ,GEN,Gen Digital Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",GEN - Gen Digital Inc
+201,GILD.OQ,GILD,Gilead Sciences Inc,"Biological Products, Except Diagnostic Substances",Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,GILD - Gilead Sciences Inc
+202,GIS.N,GIS,General Mills Inc,,Consumer Staples,Consumer Staples,Food Producers,Consumer,GIS - General Mills Inc
+203,GL.N,GL,Globe Life Inc,Life Insurance,Financials,Financials,Life Insurance,Financial Services,GL - Globe Life Inc
+204,GLW.N,GLW,Corning Inc,Drawing and Insulating of Nonferrous Wire,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",GLW - Corning Inc
+205,GM.N,GM,General Motors Co,Motor Vehicles and Passenger Car Bodies,Consumer Discretionary,Consumer Discretionary,Automobiles and Parts,Consumer,GM - General Motors Co
+206,GNRC.N,GNRC,Generac Holdings Inc,Motors and Generators,Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",GNRC - Generac Holdings Inc
+207,GOOG.OQ,GOOG,Alphabet Inc,,Communication Services,Technology,Software & Computer Services,"Technology, Media & Telecommunications",GOOG - Alphabet Inc
+208,GOOGL.OQ,GOOGL,Alphabet Inc,,Communication Services,Technology,Software & Computer Services,"Technology, Media & Telecommunications",GOOGL - Alphabet Inc
+209,GPC.N,GPC,Genuine Parts Co,Motor Vehicle Supplies and New Parts,Consumer Discretionary,Consumer Discretionary,Automobiles and Parts,Consumer,GPC - Genuine Parts Co
+210,GPN.N,GPN,Global Payments Inc,"Business Services, Not Elsewhere Classified",Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",GPN - Global Payments Inc
+211,GRMN.N,GRMN,Garmin Ltd,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",Consumer Discretionary,Consumer Discretionary,Leisure Goods,Consumer,GRMN - Garmin Ltd
+212,GS.N,GS,Goldman Sachs Group Inc,"Security Brokers, Dealers, and Flotation Companies",Financials,Financials,Investment Banking and Brokerage Services,Financial Services,GS - Goldman Sachs Group Inc
+213,GWW.N,GWW,WW Grainger Inc,,Industrials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",GWW - WW Grainger Inc
+214,HAL.N,HAL,Halliburton Co,"Oil and Gas Field Services, Not Elsewhere Classified",Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",HAL - Halliburton Co
+215,HAS.OQ,HAS,Hasbro Inc,"Games, Toys, and Children's Vehicles, Except Dolls and Bicycles",Consumer Discretionary,Consumer Discretionary,Leisure Goods,Consumer,HAS - Hasbro Inc
+216,HBAN.OQ,HBAN,Huntington Bancshares Inc,National Commercial Banks,Financials,Financials,Banks,Financial Services,HBAN - Huntington Bancshares Inc
+217,HCA.N,HCA,HCA Healthcare Inc,General Medical and Surgical Hospitals,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,HCA - HCA Healthcare Inc
+218,HD.N,HD,Home Depot Inc,Lumber and Other Building Materials Dealers,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,HD - Home Depot Inc
+219,HES.N,HES,Hess Corp,Petroleum Refining,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",HES - Hess Corp
+220,HIG.N,HIG,Hartford Financial Services Group Inc,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,HIG - Hartford Financial Services Group Inc
+221,HII.N,HII,Huntington Ingalls Industries Inc,,Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",HII - Huntington Ingalls Industries Inc
+222,HLT.N,HLT,Hilton Worldwide Holdings Inc,Hotels and Motels,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,HLT - Hilton Worldwide Holdings Inc
+223,HOLX.OQ,HOLX,Hologic Inc,X- Ray apparatus and Tubes and Related Irradiation Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,HOLX - Hologic Inc
+224,HON.OQ,HON,Honeywell International Inc,Aircraft Engines and Engine Parts,Industrials,Industrials,General Industrials,"Energy, Resources & Industrials",HON - Honeywell International Inc
+225,HPE.N,HPE,Hewlett Packard Enterprise Co,,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",HPE - Hewlett Packard Enterprise Co
+226,HPQ.N,HPQ,HP Inc,,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",HPQ - HP Inc
+227,HRL.N,HRL,Hormel Foods Corp,Meat Packing Plants,Consumer Staples,Consumer Staples,Food Producers,Consumer,HRL - Hormel Foods Corp
+228,HSIC.OQ,HSIC,Henry Schein Inc,"Medical, Dental, and Hospital Equipment and Supplies",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,HSIC - Henry Schein Inc
+229,HST.OQ,HST,Host Hotels & Resorts Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,HST - Host Hotels & Resorts Inc
+230,HSY.N,HSY,Hershey Co,,Consumer Staples,Consumer Staples,Food Producers,Consumer,HSY - Hershey Co
+231,HUBB.N,HUBB,Hubbell Inc,,Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",HUBB - Hubbell Inc
+232,HUM.N,HUM,Humana Inc,Hospital and Medical Service Plans,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,HUM - Humana Inc
+233,HWM.N,HWM,Howmet Aerospace Inc,,Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",HWM - Howmet Aerospace Inc
+234,IBM.N,IBM,International Business Machines Corp,,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",IBM - International Business Machines Corp
+235,ICE.N,ICE,Intercontinental Exchange Inc,,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,ICE - Intercontinental Exchange Inc
+236,IDXX.OQ,IDXX,IDEXX Laboratories Inc,In Vitro and In Vivo Diagnostic Substances,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,IDXX - IDEXX Laboratories Inc
+237,IEX.N,IEX,IDEX Corp,Pumps and Pumping Equipment,Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",IEX - IDEX Corp
+238,IFF.N,IFF,International Flavors & Fragrances Inc,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",IFF - International Flavors & Fragrances Inc
+239,ILMN.OQ,ILMN,Illumina Inc,Laboratory Analytical Instruments,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,ILMN - Illumina Inc
+240,INCY.OQ,INCY,Incyte Corp,Commercial Physical and Biological Research,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,INCY - Incyte Corp
+241,INTC.OQ,INTC,Intel Corp,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",INTC - Intel Corp
+242,INTU.OQ,INTU,Intuit Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",INTU - Intuit Inc
+243,INVH.N,INVH,Invitation Homes Inc,,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,INVH - Invitation Homes Inc
+244,IP.N,IP,International Paper Co,Paper Mills,Materials,Basic Materials,Industrial Materials,"Energy, Resources & Industrials",IP - International Paper Co
+245,IPG.N,IPG,Interpublic Group of Companies Inc,Advertising Agencies,Communication Services,Consumer Discretionary,Media,Consumer,IPG - Interpublic Group of Companies Inc
+246,IQV.N,IQV,IQVIA Holdings Inc,Commercial Physical and Biological Research,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,IQV - IQVIA Holdings Inc
+247,IR.N,IR,Ingersoll Rand Inc,,Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",IR - Ingersoll Rand Inc
+248,IRM.N,IRM,Iron Mountain Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,IRM - Iron Mountain Inc
+249,ISRG.OQ,ISRG,Intuitive Surgical Inc,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,ISRG - Intuitive Surgical Inc
+250,IT.N,IT,Gartner Inc,Management Services,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",IT - Gartner Inc
+251,ITW.N,ITW,Illinois Tool Works Inc,,Industrials,Industrials,General Industrials,"Energy, Resources & Industrials",ITW - Illinois Tool Works Inc
+252,IVZ.N,IVZ,Invesco Ltd,Investment Advice,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,IVZ - Invesco Ltd
+253,J.N,J,Jacobs Solutions Inc,,Industrials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",J - Jacobs Solutions Inc
+254,JBHT.OQ,JBHT,J B Hunt Transport Services Inc,"Trucking, Except Local",Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",JBHT - J B Hunt Transport Services Inc
+255,JBL.N,JBL,Jabil Inc,Printed Circuit Boards,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",JBL - Jabil Inc
+256,JCI.N,JCI,Johnson Controls International PLC,Air- Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment,Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",JCI - Johnson Controls International PLC
+257,JKHY.OQ,JKHY,Jack Henry & Associates Inc,Computer Integrated Systems Design,Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",JKHY - Jack Henry & Associates Inc
+258,JNJ.N,JNJ,Johnson & Johnson,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,JNJ - Johnson & Johnson
+259,JNPR.N,JNPR,Juniper Networks Inc,Computer Communications Equipment,Information Technology,Telecommunications,Telecommunications Equipment,"Technology, Media & Telecommunications",JNPR - Juniper Networks Inc
+260,JPM.N,JPM,JPMorgan Chase & Co,National Commercial Banks,Financials,Financials,Banks,Financial Services,JPM - JPMorgan Chase & Co
+261,K.N,K,Kellanova,,Consumer Staples,Consumer Staples,Food Producers,Consumer,K - Kellanova
+262,KDP.OQ,KDP,Keurig Dr Pepper Inc,,Consumer Staples,Consumer Staples,Beverages,Consumer,KDP - Keurig Dr Pepper Inc
+263,KEY.N,KEY,KeyCorp,National Commercial Banks,Financials,Financials,Banks,Financial Services,KEY - KeyCorp
+264,KEYS.N,KEYS,Keysight Technologies Inc,"Industrial Instruments For Measurement, Display, and Control of Process Variables; and Related Products",Information Technology,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",KEYS - Keysight Technologies Inc
+265,KHC.OQ,KHC,Kraft Heinz Co,,Consumer Staples,Consumer Staples,Food Producers,Consumer,KHC - Kraft Heinz Co
+266,KIM.N,KIM,Kimco Realty Corp,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,KIM - Kimco Realty Corp
+267,KLAC.OQ,KLAC,KLA Corp,Optical Instruments and Lenses,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",KLAC - KLA Corp
+268,KMB.N,KMB,Kimberly-Clark Corp,,Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,KMB - Kimberly-Clark Corp
+269,KMI.N,KMI,Kinder Morgan Inc,Natural Gas Transmission,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",KMI - Kinder Morgan Inc
+270,KMX.N,KMX,Carmax Inc,,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,KMX - Carmax Inc
+271,KO.N,KO,Coca-Cola Co,,Consumer Staples,Consumer Staples,Beverages,Consumer,KO - Coca-Cola Co
+272,KR.N,KR,Kroger Co,Grocery Stores,Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,KR - Kroger Co
+273,KVUE.N,KVUE,Kenvue Inc,"Perfumes, Cosmetics, and Other Toilet Preparations",Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,KVUE - Kenvue Inc
+274,L.N,L,Loews Corp,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,L - Loews Corp
+275,LDOS.N,LDOS,Leidos Holdings Inc,Computer Integrated Systems Design,Industrials,Technology,Software & Computer Services,"Technology, Media & Telecommunications",LDOS - Leidos Holdings Inc
+276,LEN.N,LEN,Lennar Corp,,Consumer Discretionary,Consumer Discretionary,Household Goods and Home Construction,Consumer,LEN - Lennar Corp
+277,LH.N,LH,Laboratory Corporation of America Holdings,Medical Laboratories,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,LH - Laboratory Corporation of America Holdings
+278,LHX.N,LHX,L3Harris Technologies Inc,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",LHX - L3Harris Technologies Inc
+279,LIN.OQ,LIN,Linde PLC,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",LIN - Linde PLC
+280,LKQ.OQ,LKQ,LKQ Corp,,Consumer Discretionary,Consumer Discretionary,Automobiles and Parts,Consumer,LKQ - LKQ Corp
+281,LLY.N,LLY,Eli Lilly and Co,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,LLY - Eli Lilly and Co
+282,LMT.N,LMT,Lockheed Martin Corp,,Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",LMT - Lockheed Martin Corp
+283,LNT.OQ,LNT,Alliant Energy Corp,Electric and Other Services Combined,Utilities,Utilities,Electricity,Government & Public Services,LNT - Alliant Energy Corp
+284,LOW.N,LOW,Lowe's Companies Inc,Lumber and Other Building Materials Dealers,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,LOW - Lowe's Companies Inc
+285,LRCX.OQ,LRCX,Lam Research Corp,"Special Industry Machinery, Not Elsewhere Classified",Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",LRCX - Lam Research Corp
+286,LULU.OQ,LULU,Lululemon Athletica Inc,,Consumer Discretionary,Consumer Discretionary,Personal Goods,Consumer,LULU - Lululemon Athletica Inc
+287,LUV.N,LUV,Southwest Airlines Co,"Air Transportation, Scheduled",Industrials,Consumer Discretionary,Travel and Leisure,Consumer,LUV - Southwest Airlines Co
+288,LVS.N,LVS,Las Vegas Sands Corp,Hotels and Motels,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,LVS - Las Vegas Sands Corp
+289,LW.N,LW,Lamb Weston Holdings Inc,,Consumer Staples,Consumer Staples,Food Producers,Consumer,LW - Lamb Weston Holdings Inc
+290,LYB.N,LYB,LyondellBasell Industries NV,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",LYB - LyondellBasell Industries NV
+291,LYV.N,LYV,Live Nation Entertainment Inc,,Communication Services,Consumer Discretionary,Travel and Leisure,Consumer,LYV - Live Nation Entertainment Inc
+292,MA.N,MA,Mastercard Inc,"Business Services, Not Elsewhere Classified",Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",MA - Mastercard Inc
+293,MAA.N,MAA,Mid-America Apartment Communities Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,MAA - Mid-America Apartment Communities Inc
+294,MAR.OQ,MAR,Marriott International Inc,Hotels and Motels,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,MAR - Marriott International Inc
+295,MAS.N,MAS,Masco Corp,,Industrials,Industrials,Construction and Materials,"Energy, Resources & Industrials",MAS - Masco Corp
+296,MCD.N,MCD,McDonald's Corp,Eating Places,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,MCD - McDonald's Corp
+297,MCHP.OQ,MCHP,Microchip Technology Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",MCHP - Microchip Technology Inc
+298,MCK.N,MCK,Mckesson Corp,"Drugs, Drug Proprietaries, and Druggists' Sundries",Health Care,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,MCK - Mckesson Corp
+299,MCO.N,MCO,Moody's Corp,,Financials,Financials,Finance and Credit Services,Financial Services,MCO - Moody's Corp
+300,MDLZ.OQ,MDLZ,Mondelez International Inc,,Consumer Staples,Consumer Staples,Food Producers,Consumer,MDLZ - Mondelez International Inc
+301,MDT.N,MDT,Medtronic PLC,Electromedical and Electrotherapeutic Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,MDT - Medtronic PLC
+302,MET.N,MET,MetLife Inc,Life Insurance,Financials,Financials,Life Insurance,Financial Services,MET - MetLife Inc
+303,META.OQ,META,Meta Platforms Inc,,Communication Services,Technology,Software & Computer Services,"Technology, Media & Telecommunications",META - Meta Platforms Inc
+304,MGM.N,MGM,MGM Resorts International,Hotels and Motels,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,MGM - MGM Resorts International
+305,MHK.N,MHK,Mohawk Industries Inc,Carpets and Rugs,Consumer Discretionary,Industrials,Construction and Materials,"Energy, Resources & Industrials",MHK - Mohawk Industries Inc
+306,MKC.N,MKC,McCormick & Company Inc,,Consumer Staples,Consumer Staples,Food Producers,Consumer,MKC - McCormick & Company Inc
+307,MKTX.OQ,MKTX,Marketaxess Holdings Inc,"Security Brokers, Dealers, and Flotation Companies",Financials,Financials,Investment Banking and Brokerage Services,Financial Services,MKTX - Marketaxess Holdings Inc
+308,MLM.N,MLM,Martin Marietta Materials Inc,,Materials,Industrials,Construction and Materials,"Energy, Resources & Industrials",MLM - Martin Marietta Materials Inc
+309,MMC.N,MMC,Marsh & McLennan Companies Inc,"Insurance Agents, Brokers, and Service",Financials,Financials,Non-life Insurance,Financial Services,MMC - Marsh & McLennan Companies Inc
+310,MMM.N,MMM,3M Co,Surgical and Medical Instruments and Apparatus,Industrials,Industrials,General Industrials,"Energy, Resources & Industrials",MMM - 3M Co
+311,MNST.OQ,MNST,Monster Beverage Corp,Bottled and Canned Soft Drinks and Carbonated Waters,Consumer Staples,Consumer Staples,Beverages,Consumer,MNST - Monster Beverage Corp
+312,MO.N,MO,Altria Group Inc,Cigarettes,Consumer Staples,Consumer Staples,Tobacco,Consumer,MO - Altria Group Inc
+313,MOH.N,MOH,Molina Healthcare Inc,Hospital and Medical Service Plans,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,MOH - Molina Healthcare Inc
+314,MOS.N,MOS,Mosaic Co,,Materials,Basic Materials,Chemicals,"Energy, Resources & Industrials",MOS - Mosaic Co
+315,MPC.N,MPC,Marathon Petroleum Corp,Petroleum Refining,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",MPC - Marathon Petroleum Corp
+316,MPWR.OQ,MPWR,Monolithic Power Systems Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",MPWR - Monolithic Power Systems Inc
+317,MRK.N,MRK,Merck & Co Inc,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,MRK - Merck & Co Inc
+318,MRNA.OQ,MRNA,Moderna Inc,"Biological Products, Except Diagnostic Substances",Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,MRNA - Moderna Inc
+319,MRO.N,MRO,Marathon Oil Corp,Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",MRO - Marathon Oil Corp
+320,MS.N,MS,Morgan Stanley,"Security Brokers, Dealers, and Flotation Companies",Financials,Financials,Investment Banking and Brokerage Services,Financial Services,MS - Morgan Stanley
+321,MSCI.N,MSCI,MSCI Inc,"Business Services, Not Elsewhere Classified",Financials,Financials,Finance and Credit Services,Financial Services,MSCI - MSCI Inc
+322,MSFT.OQ,MSFT,Microsoft Corp,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",MSFT - Microsoft Corp
+323,MSI.N,MSI,Motorola Solutions Inc,Radio and Television Broadcasting and Communications Equipment,Information Technology,Telecommunications,Telecommunications Equipment,"Technology, Media & Telecommunications",MSI - Motorola Solutions Inc
+324,MTB.N,MTB,M&T Bank Corp,State Commercial Banks,Financials,Financials,Banks,Financial Services,MTB - M&T Bank Corp
+325,MTCH.OQ,MTCH,Match Group Inc,,Communication Services,Technology,Software & Computer Services,"Technology, Media & Telecommunications",MTCH - Match Group Inc
+326,MTD.N,MTD,Mettler-Toledo International Inc,Laboratory Analytical Instruments,Health Care,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",MTD - Mettler-Toledo International Inc
+327,MU.OQ,MU,Micron Technology Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",MU - Micron Technology Inc
+328,NCLH.N,NCLH,Norwegian Cruise Line Holdings Ltd,,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,NCLH - Norwegian Cruise Line Holdings Ltd
+329,NDAQ.OQ,NDAQ,Nasdaq Inc,,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,NDAQ - Nasdaq Inc
+330,NDSN.OQ,NDSN,Nordson Corp,"General Industrial Machinery and Equipment, Not Elsewhere Classified",Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",NDSN - Nordson Corp
+331,NEE.N,NEE,Nextera Energy Inc,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,NEE - Nextera Energy Inc
+332,NEM.N,NEM,Newmont Corporation,,Materials,Basic Materials,Precious Metals and Mining,"Energy, Resources & Industrials",NEM - Newmont Corporation
+333,NFLX.OQ,NFLX,Netflix Inc,Video Tape Rental,Communication Services,Consumer Discretionary,Media,Consumer,NFLX - Netflix Inc
+334,NI.N,NI,NiSource Inc,Electric and Other Services Combined,Utilities,Utilities,"Gas, Water and Multi-utilities",Government & Public Services,NI - NiSource Inc
+335,NKE.N,NKE,Nike Inc,Rubber and Plastics Footwear,Consumer Discretionary,Consumer Discretionary,Personal Goods,Consumer,NKE - Nike Inc
+336,NOC.N,NOC,Northrop Grumman Corp,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",NOC - Northrop Grumman Corp
+337,NOW.N,NOW,ServiceNow Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",NOW - ServiceNow Inc
+338,NRG.N,NRG,NRG Energy Inc,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,NRG - NRG Energy Inc
+339,NSC.N,NSC,Norfolk Southern Corp,"Railroads, Line- Haul operating",Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",NSC - Norfolk Southern Corp
+340,NTAP.OQ,NTAP,NetApp Inc,Computer Storage Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",NTAP - NetApp Inc
+341,NTRS.OQ,NTRS,Northern Trust Corp,State Commercial Banks,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,NTRS - Northern Trust Corp
+342,NUE.N,NUE,Nucor Corp,"Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills",Materials,Basic Materials,Industrial Metals and Mining,"Energy, Resources & Industrials",NUE - Nucor Corp
+343,NVDA.OQ,NVDA,NVIDIA Corp,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",NVDA - NVIDIA Corp
+344,NVR.N,NVR,NVR Inc,Operative Builders,Consumer Discretionary,Consumer Discretionary,Household Goods and Home Construction,Consumer,NVR - NVR Inc
+345,NWS.OQ,NWS,News Corp,"Newspapers: Publishing, Or Publishing and Printing",Communication Services,Consumer Discretionary,Media,Consumer,NWS - News Corp
+346,NWSA.OQ,NWSA,News Corp,"Newspapers: Publishing, Or Publishing and Printing",Communication Services,Consumer Discretionary,Media,Consumer,NWSA - News Corp
+347,NXPI.OQ,NXPI,NXP Semiconductors NV,,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",NXPI - NXP Semiconductors NV
+348,O.N,O,Realty Income Corp,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,O - Realty Income Corp
+349,ODFL.OQ,ODFL,Old Dominion Freight Line Inc,"Trucking, Except Local",Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",ODFL - Old Dominion Freight Line Inc
+350,OKE.N,OKE,ONEOK Inc,Natural Gas Transmission and Distribution,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",OKE - ONEOK Inc
+351,OMC.N,OMC,Omnicom Group Inc,Advertising Agencies,Communication Services,Consumer Discretionary,Media,Consumer,OMC - Omnicom Group Inc
+352,ON.OQ,ON,ON Semiconductor Corp,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",ON - ON Semiconductor Corp
+353,ORCL.N,ORCL,Oracle Corp,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",ORCL - Oracle Corp
+354,ORLY.OQ,ORLY,O'Reilly Automotive Inc,Auto and Home Supply Stores,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,ORLY - O'Reilly Automotive Inc
+355,OTIS.N,OTIS,Otis Worldwide Corp,,Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",OTIS - Otis Worldwide Corp
+356,OXY.N,OXY,Occidental Petroleum Corp,Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",OXY - Occidental Petroleum Corp
+357,PANW.OQ,PANW,Palo Alto Networks Inc,"Computer Peripheral Equipment, Not Elsewhere Classified",Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",PANW - Palo Alto Networks Inc
+358,PARA.OQ,PARA,Paramount Global,Television Broadcasting Stations,Communication Services,Consumer Discretionary,Media,Consumer,PARA - Paramount Global
+359,PAYC.N,PAYC,Paycom Software Inc,Prepackaged Software,Industrials,Technology,Software & Computer Services,"Technology, Media & Telecommunications",PAYC - Paycom Software Inc
+360,PAYX.OQ,PAYX,Paychex Inc,,Industrials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",PAYX - Paychex Inc
+361,PCAR.OQ,PCAR,Paccar Inc,Motor Vehicles and Passenger Car Bodies,Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",PCAR - Paccar Inc
+362,PCG.N,PCG,PG&E Corp,Electric and Other Services Combined,Utilities,Utilities,Electricity,Government & Public Services,PCG - PG&E Corp
+363,PEAK.N,PEAK,Healthpeak Properties Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,PEAK - Healthpeak Properties Inc
+364,PEG.N,PEG,Public Service Enterprise Group Inc,Electric and Other Services Combined,Utilities,Utilities,Electricity,Government & Public Services,PEG - Public Service Enterprise Group Inc
+365,PEP.OQ,PEP,PepsiCo Inc,,Consumer Staples,Consumer Staples,Beverages,Consumer,PEP - PepsiCo Inc
+366,PFE.N,PFE,Pfizer Inc,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,PFE - Pfizer Inc
+367,PFG.OQ,PFG,Principal Financial Group Inc,Accident and Health Insurance,Financials,Financials,Life Insurance,Financial Services,PFG - Principal Financial Group Inc
+368,PG.N,PG,Procter & Gamble Co,,Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,PG - Procter & Gamble Co
+369,PGR.N,PGR,Progressive Corp,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,PGR - Progressive Corp
+370,PH.N,PH,Parker-Hannifin Corp,,Industrials,Industrials,General Industrials,"Energy, Resources & Industrials",PH - Parker-Hannifin Corp
+371,PHM.N,PHM,Pultegroup Inc,Operative Builders,Consumer Discretionary,Consumer Discretionary,Household Goods and Home Construction,Consumer,PHM - Pultegroup Inc
+372,PKG.N,PKG,Packaging Corp of America,,Materials,Industrials,General Industrials,"Energy, Resources & Industrials",PKG - Packaging Corp of America
+373,PLD.N,PLD,Prologis Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,PLD - Prologis Inc
+374,PM.N,PM,Philip Morris International Inc,Cigarettes,Consumer Staples,Consumer Staples,Tobacco,Consumer,PM - Philip Morris International Inc
+375,PNC.N,PNC,PNC Financial Services Group Inc,National Commercial Banks,Financials,Financials,Banks,Financial Services,PNC - PNC Financial Services Group Inc
+376,PNR.N,PNR,Pentair PLC,,Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",PNR - Pentair PLC
+377,PNW.N,PNW,Pinnacle West Capital Corp,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,PNW - Pinnacle West Capital Corp
+378,PODD.OQ,PODD,Insulet Corp,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,PODD - Insulet Corp
+379,POOL.OQ,POOL,Pool Corp,,Consumer Discretionary,Consumer Discretionary,Leisure Goods,Consumer,POOL - Pool Corp
+380,PPG.N,PPG,PPG Industries Inc,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",Materials,Industrials,General Industrials,"Energy, Resources & Industrials",PPG - PPG Industries Inc
+381,PPL.N,PPL,PPL Corp,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,PPL - PPL Corp
+382,PRU.N,PRU,Prudential Financial Inc,Life Insurance,Financials,Financials,Life Insurance,Financial Services,PRU - Prudential Financial Inc
+383,PSA.N,PSA,Public Storage,,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,PSA - Public Storage
+384,PSX.N,PSX,Phillips 66,Petroleum Refining,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",PSX - Phillips 66
+385,PTC.OQ,PTC,PTC Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",PTC - PTC Inc
+386,PWR.N,PWR,Quanta Services Inc,Electrical Work,Industrials,Industrials,Construction and Materials,"Energy, Resources & Industrials",PWR - Quanta Services Inc
+387,PXD.N,PXD,Pioneer Natural Resources Co,Crude Petroleum and Natural Gas,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",PXD - Pioneer Natural Resources Co
+388,PYPL.OQ,PYPL,PayPal Holdings Inc,"Business Services, Not Elsewhere Classified",Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",PYPL - PayPal Holdings Inc
+389,QCOM.OQ,QCOM,Qualcomm Inc,Radio and Television Broadcasting and Communications Equipment,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",QCOM - Qualcomm Inc
+390,QRVO.OQ,QRVO,Qorvo Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",QRVO - Qorvo Inc
+391,RCL.N,RCL,Royal Caribbean Cruises Ltd,,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,RCL - Royal Caribbean Cruises Ltd
+392,REG.OQ,REG,Regency Centers Corp,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,REG - Regency Centers Corp
+393,REGN.OQ,REGN,Regeneron Pharmaceuticals Inc,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,REGN - Regeneron Pharmaceuticals Inc
+394,RF.N,RF,Regions Financial Corp,National Commercial Banks,Financials,Financials,Banks,Financial Services,RF - Regions Financial Corp
+395,RHI.N,RHI,Robert Half Inc,Help Supply Services,Industrials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",RHI - Robert Half Inc
+396,RJF.N,RJF,Raymond James Financial Inc,"Security Brokers, Dealers, and Flotation Companies",Financials,Financials,Investment Banking and Brokerage Services,Financial Services,RJF - Raymond James Financial Inc
+397,RL.N,RL,Ralph Lauren Corp,,Consumer Discretionary,Consumer Discretionary,Personal Goods,Consumer,RL - Ralph Lauren Corp
+398,RMD.N,RMD,Resmed Inc,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,RMD - Resmed Inc
+399,ROK.N,ROK,Rockwell Automation Inc,"Measuring and Controlling Devices, Not Elsewhere Classified",Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",ROK - Rockwell Automation Inc
+400,ROL.N,ROL,Rollins Inc,,Industrials,Consumer Discretionary,Consumer Services,Consumer,ROL - Rollins Inc
+401,ROP.OQ,ROP,Roper Technologies Inc,"Industrial Instruments For Measurement, Display, and Control of Process Variables; and Related Products",Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",ROP - Roper Technologies Inc
+402,ROST.OQ,ROST,Ross Stores Inc,Family Clothing Stores,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,ROST - Ross Stores Inc
+403,RSG.N,RSG,Republic Services Inc,Refuse Systems,Industrials,Utilities,Waste and Disposal Services,Government & Public Services,RSG - Republic Services Inc
+404,RTX.N,RTX,RTX Corp,Aircraft Engines and Engine Parts,Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",RTX - RTX Corp
+405,RVTY.N,RVTY,Revvity Inc,Laboratory Analytical Instruments,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,RVTY - Revvity Inc
+406,SBAC.OQ,SBAC,SBA Communications Corp,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,SBAC - SBA Communications Corp
+407,SBUX.OQ,SBUX,Starbucks Corp,,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,SBUX - Starbucks Corp
+408,SCHW.N,SCHW,Charles Schwab Corp,"Security Brokers, Dealers, and Flotation Companies",Financials,Financials,Investment Banking and Brokerage Services,Financial Services,SCHW - Charles Schwab Corp
+409,SHW.N,SHW,Sherwin-Williams Co,,Materials,Industrials,General Industrials,"Energy, Resources & Industrials",SHW - Sherwin-Williams Co
+410,SJM.N,SJM,J M Smucker Co,"Canned Fruits, Vegetables, Preserves, Jams, and Jellies",Consumer Staples,Consumer Staples,Food Producers,Consumer,SJM - J M Smucker Co
+411,SLB.N,SLB,Schlumberger NV,"Oil and Gas Field Services, Not Elsewhere Classified",Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",SLB - Schlumberger NV
+412,SNA.N,SNA,Snap-On Inc,,Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",SNA - Snap-On Inc
+413,SNPS.OQ,SNPS,Synopsys Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",SNPS - Synopsys Inc
+414,SO.N,SO,Southern Co,Electric Services,Utilities,Utilities,Electricity,Government & Public Services,SO - Southern Co
+415,SPG.N,SPG,Simon Property Group Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,SPG - Simon Property Group Inc
+416,SPGI.N,SPGI,S&P Global Inc,,Financials,Financials,Finance and Credit Services,Financial Services,SPGI - S&P Global Inc
+417,SRE.N,SRE,Sempra,Gas and Other Services Combined,Utilities,Utilities,"Gas, Water and Multi-utilities",Government & Public Services,SRE - Sempra
+418,STE.N,STE,STERIS plc,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,STE - STERIS plc
+419,STLD.OQ,STLD,Steel Dynamics Inc,"Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills",Materials,Basic Materials,Industrial Metals and Mining,"Energy, Resources & Industrials",STLD - Steel Dynamics Inc
+420,STT.N,STT,State Street Corp,State Commercial Banks,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,STT - State Street Corp
+421,STX.OQ,STX,Seagate Technology Holdings PLC,Computer Storage Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",STX - Seagate Technology Holdings PLC
+422,STZ.N,STZ,Constellation Brands Inc,,Consumer Staples,Consumer Staples,Beverages,Consumer,STZ - Constellation Brands Inc
+423,SWK.N,SWK,Stanley Black & Decker Inc,,Industrials,Industrials,Industrial Engineering,"Energy, Resources & Industrials",SWK - Stanley Black & Decker Inc
+424,SWKS.OQ,SWKS,Skyworks Solutions Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",SWKS - Skyworks Solutions Inc
+425,SYF.N,SYF,Synchrony Financial,,Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",SYF - Synchrony Financial
+426,SYK.N,SYK,Stryker Corp,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,SYK - Stryker Corp
+427,SYY.N,SYY,Sysco Corp,,Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,SYY - Sysco Corp
+428,T.N,T,AT&T Inc,"Telephone Communications, Except Radiotelephone",Communication Services,Telecommunications,Telecommunications Service Providers,"Technology, Media & Telecommunications",T - AT&T Inc
+429,TAP.N,TAP,Molson Coors Beverage Co,Malt Beverages,Consumer Staples,Consumer Staples,Beverages,Consumer,TAP - Molson Coors Beverage Co
+430,TDG.N,TDG,TransDigm Group Inc,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified",Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",TDG - TransDigm Group Inc
+431,TDY.N,TDY,Teledyne Technologies Inc,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",Information Technology,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",TDY - Teledyne Technologies Inc
+432,TECH.OQ,TECH,Bio-Techne Corp,"Biological Products, Except Diagnostic Substances",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,TECH - Bio-Techne Corp
+433,TEL.N,TEL,TE Connectivity Ltd,"Electronic Parts and Equipment, Not Elsewhere Classified",Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",TEL - TE Connectivity Ltd
+434,TER.OQ,TER,Teradyne Inc,Instruments For Measuring and Testing of Electricity and Electrical Signals,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",TER - Teradyne Inc
+435,TFC.N,TFC,Truist Financial Corp,National Commercial Banks,Financials,Financials,Banks,Financial Services,TFC - Truist Financial Corp
+436,TFX.N,TFX,Teleflex Inc,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,TFX - Teleflex Inc
+437,TGT.N,TGT,Target Corp,Variety Stores,Consumer Staples,Consumer Discretionary,Retailers,Consumer,TGT - Target Corp
+438,TJX.N,TJX,TJX Companies Inc,Family Clothing Stores,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,TJX - TJX Companies Inc
+439,TMO.N,TMO,Thermo Fisher Scientific Inc,"Measuring and Controlling Devices, Not Elsewhere Classified",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,TMO - Thermo Fisher Scientific Inc
+440,TMUS.OQ,TMUS,T-Mobile US Inc,Radiotelephone Communications,Communication Services,Telecommunications,Telecommunications Service Providers,"Technology, Media & Telecommunications",TMUS - T-Mobile US Inc
+441,TPR.N,TPR,Tapestry Inc,,Consumer Discretionary,Consumer Discretionary,Personal Goods,Consumer,TPR - Tapestry Inc
+442,TRGP.N,TRGP,Targa Resources Corp,Natural Gas Transmission,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",TRGP - Targa Resources Corp
+443,TRMB.OQ,TRMB,Trimble Inc,"Measuring and Controlling Devices, Not Elsewhere Classified",Information Technology,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",TRMB - Trimble Inc
+444,TROW.OQ,TROW,T Rowe Price Group Inc,,Financials,Financials,Investment Banking and Brokerage Services,Financial Services,TROW - T Rowe Price Group Inc
+445,TRV.N,TRV,Travelers Companies Inc,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,TRV - Travelers Companies Inc
+446,TSCO.OQ,TSCO,Tractor Supply Co,,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,TSCO - Tractor Supply Co
+447,TSLA.OQ,TSLA,Tesla Inc,Motor Vehicles and Passenger Car Bodies,Consumer Discretionary,Consumer Discretionary,Automobiles and Parts,Consumer,TSLA - Tesla Inc
+448,TSN.N,TSN,Tyson Foods Inc,Poultry Slaughtering and Processing,Consumer Staples,Consumer Staples,Food Producers,Consumer,TSN - Tyson Foods Inc
+449,TT.N,TT,Trane Technologies PLC,Automatic Controls For Regulating Residential and Commercial Environments and Appliances,Industrials,Industrials,Construction and Materials,"Energy, Resources & Industrials",TT - Trane Technologies PLC
+450,TTWO.OQ,TTWO,Take-Two Interactive Software Inc,Prepackaged Software,Communication Services,Consumer Discretionary,Leisure Goods,Consumer,TTWO - Take-Two Interactive Software Inc
+451,TXN.OQ,TXN,Texas Instruments Inc,Semiconductors and Related Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",TXN - Texas Instruments Inc
+452,TXT.N,TXT,Textron Inc,,Industrials,Industrials,Aerospace and Defense,"Energy, Resources & Industrials",TXT - Textron Inc
+453,TYL.N,TYL,Tyler Technologies Inc,Prepackaged Software,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",TYL - Tyler Technologies Inc
+454,UAL.OQ,UAL,United Airlines Holdings Inc,"Air Transportation, Scheduled",Industrials,Consumer Discretionary,Travel and Leisure,Consumer,UAL - United Airlines Holdings Inc
+455,UBER.N,UBER,Uber Technologies Inc,"Business Services, Not Elsewhere Classified",Industrials,Consumer Discretionary,Consumer Services,Consumer,UBER - Uber Technologies Inc
+456,UDR.N,UDR,UDR Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,UDR - UDR Inc
+457,UHS.N,UHS,Universal Health Services Inc,General Medical and Surgical Hospitals,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,UHS - Universal Health Services Inc
+458,ULTA.OQ,ULTA,Ulta Beauty Inc,,Consumer Discretionary,Consumer Discretionary,Retailers,Consumer,ULTA - Ulta Beauty Inc
+459,UNH.N,UNH,UnitedHealth Group Inc,Hospital and Medical Service Plans,Health Care,Health Care,Health Care Providers,Life Sciences & Health Care,UNH - UnitedHealth Group Inc
+460,UNP.N,UNP,Union Pacific Corp,"Railroads, Line- Haul operating",Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",UNP - Union Pacific Corp
+461,UPS.N,UPS,United Parcel Service Inc,,Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",UPS - United Parcel Service Inc
+462,URI.N,URI,United Rentals Inc,"Equipment Rental and Leasing, Not Elsewhere Classified",Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",URI - United Rentals Inc
+463,USB.N,USB,US Bancorp,National Commercial Banks,Financials,Financials,Banks,Financial Services,USB - US Bancorp
+464,V.N,V,Visa Inc,"Business Services, Not Elsewhere Classified",Financials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",V - Visa Inc
+465,VFC.N,VFC,VF Corp,,Consumer Discretionary,Consumer Discretionary,Personal Goods,Consumer,VFC - VF Corp
+466,VICI.N,VICI,VICI Properties Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,VICI - VICI Properties Inc
+467,VLO.N,VLO,Valero Energy Corp,Petroleum Refining,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",VLO - Valero Energy Corp
+468,VLTO.N,VLTO,Veralto Corp,Instruments For Measuring and Testing of Electricity and Electrical Signals,Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",VLTO - Veralto Corp
+469,VMC.N,VMC,Vulcan Materials Co,,Materials,Industrials,Construction and Materials,"Energy, Resources & Industrials",VMC - Vulcan Materials Co
+470,VRSK.OQ,VRSK,Verisk Analytics Inc,Computer Processing and Data Preparation and Processing Services,Industrials,Industrials,Industrial Support Services,"Energy, Resources & Industrials",VRSK - Verisk Analytics Inc
+471,VRSN.OQ,VRSN,Verisign Inc,Computer Programming Services,Information Technology,Technology,Software & Computer Services,"Technology, Media & Telecommunications",VRSN - Verisign Inc
+472,VRTX.OQ,VRTX,Vertex Pharmaceuticals Inc,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,VRTX - Vertex Pharmaceuticals Inc
+473,VTR.N,VTR,Ventas Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,VTR - Ventas Inc
+474,VTRS.OQ,VTRS,Viatris Inc,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,VTRS - Viatris Inc
+475,VZ.N,VZ,Verizon Communications Inc,"Telephone Communications, Except Radiotelephone",Communication Services,Telecommunications,Telecommunications Service Providers,"Technology, Media & Telecommunications",VZ - Verizon Communications Inc
+476,WAB.N,WAB,Westinghouse Air Brake Technologies Corp,Railroad Equipment,Industrials,Industrials,Industrial Transportation,"Energy, Resources & Industrials",WAB - Westinghouse Air Brake Technologies Corp
+477,WAT.N,WAT,Waters Corp,Laboratory Analytical Instruments,Health Care,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",WAT - Waters Corp
+478,WBA.OQ,WBA,Walgreens Boots Alliance Inc,Drug Stores and Proprietary Stores,Consumer Staples,Consumer Staples,"Personal Care, Drug and Grocery Stores",Consumer,WBA - Walgreens Boots Alliance Inc
+479,WBD.OQ,WBD,Warner Bros Discovery Inc,Cable and Other Pay Television Services,Communication Services,Consumer Discretionary,Media,Consumer,WBD - Warner Bros Discovery Inc
+480,WDC.OQ,WDC,Western Digital Corp,Computer Storage Devices,Information Technology,Technology,Technology Hardware & Equipment,"Technology, Media & Telecommunications",WDC - Western Digital Corp
+481,WEC.N,WEC,WEC Energy Group Inc,Electric and Other Services Combined,Utilities,Utilities,"Gas, Water and Multi-utilities",Government & Public Services,WEC - WEC Energy Group Inc
+482,WELL.N,WELL,Welltower Inc,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,WELL - Welltower Inc
+483,WFC.N,WFC,Wells Fargo & Co,National Commercial Banks,Financials,Financials,Banks,Financial Services,WFC - Wells Fargo & Co
+484,WHR.N,WHR,Whirlpool Corp,,Consumer Discretionary,Consumer Discretionary,Household Goods and Home Construction,Consumer,WHR - Whirlpool Corp
+485,WM.N,WM,Waste Management Inc,Refuse Systems,Industrials,Utilities,Waste and Disposal Services,Government & Public Services,WM - Waste Management Inc
+486,WMB.N,WMB,Williams Companies Inc,Natural Gas Transmission,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",WMB - Williams Companies Inc
+487,WMT.N,WMT,Walmart Inc,Variety Stores,Consumer Staples,Consumer Discretionary,Retailers,Consumer,WMT - Walmart Inc
+488,WRB.N,WRB,W R Berkley Corp,"Fire, Marine, and Casualty Insurance",Financials,Financials,Non-life Insurance,Financial Services,WRB - W R Berkley Corp
+489,WRK.N,WRK,WestRock Co,,Materials,Industrials,General Industrials,"Energy, Resources & Industrials",WRK - WestRock Co
+490,WST.N,WST,West Pharmaceutical Services Inc,Surgical and Medical Instruments and Apparatus,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,WST - West Pharmaceutical Services Inc
+491,WTW.OQ,WTW,Willis Towers Watson PLC,"Insurance Agents, Brokers, and Service",Financials,Financials,Non-life Insurance,Financial Services,WTW - Willis Towers Watson PLC
+492,WY.N,WY,Weyerhaeuser Co,Real Estate Investment Trusts,Real Estate,Real Estate,Real Estate Investment Trusts,Financial Services,WY - Weyerhaeuser Co
+493,WYNN.OQ,WYNN,Wynn Resorts Ltd,Hotels and Motels,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,WYNN - Wynn Resorts Ltd
+494,XEL.OQ,XEL,Xcel Energy Inc,Electric and Other Services Combined,Utilities,Utilities,Electricity,Government & Public Services,XEL - Xcel Energy Inc
+495,XOM.N,XOM,Exxon Mobil Corp,Petroleum Refining,Energy,Energy,"Oil, Gas and Coal","Energy, Resources & Industrials",XOM - Exxon Mobil Corp
+496,XRAY.OQ,XRAY,DENTSPLY SIRONA Inc,Dental Equipment and Supplies,Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,XRAY - DENTSPLY SIRONA Inc
+497,XYL.N,XYL,Xylem Inc,Pumps and Pumping Equipment,Industrials,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",XYL - Xylem Inc
+498,YUM.N,YUM,Yum! Brands Inc,Eating Places,Consumer Discretionary,Consumer Discretionary,Travel and Leisure,Consumer,YUM - Yum! Brands Inc
+499,ZBH.N,ZBH,Zimmer Biomet Holdings Inc,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies",Health Care,Health Care,Medical Equipment and Services,Life Sciences & Health Care,ZBH - Zimmer Biomet Holdings Inc
+500,ZBRA.OQ,ZBRA,Zebra Technologies Corp,,Information Technology,Industrials,Electronic and Electrical Equipment,"Energy, Resources & Industrials",ZBRA - Zebra Technologies Corp
+501,ZION.OQ,ZION,Zions Bancorporation NA,National Commercial Banks,Financials,Financials,Banks,Financial Services,ZION - Zions Bancorporation NA
+502,ZTS.N,ZTS,Zoetis Inc,Pharmaceutical Preparations,Health Care,Health Care,Pharmaceuticals and Biotechnology,Life Sciences & Health Care,ZTS - Zoetis Inc
