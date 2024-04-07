@@ -1,4 +1,3 @@
-#Use this parser if logs were extracted as csv from Azure log analytics service 
 import datetime
 import pandas as pd
 import sys
@@ -10,8 +9,8 @@ def from_log(log_file,rating_file):
     chat_data = []
     with open(rating_file, 'a') as rating_output:
         rating_output.write(f"userid,response\n")
-    df_csv = pd.read_csv(log_file, header=None, names=['log_data'])
-    for line in df_csv['log_data']:
+    with open(log_file, 'r') as file:
+        for line in file:
             log_type, *log_data = line.strip().split('|^')
             
             if log_type.endswith('UserRating'):
