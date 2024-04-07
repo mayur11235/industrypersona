@@ -1,0 +1,10 @@
+llama_index==0.9.39
+openai==1.7.2
+pandas==1.5.3
+pinecone_client==2.2.4
+python-dotenv==1.0.0
+streamlit==1.29.0
+transformers
+torch
+trulens-eval==0.20.0
+streamlit-feedback==0.1.3

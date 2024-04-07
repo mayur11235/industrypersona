@@ -1,1 +1,77 @@
-### Git Page for Industry Persona application.  
+# Industry Persona Application with RAG 
+## Overview
+
+This Streamlit web application leverages RAG (Retrieval-Augmented Generation) to generate industry-specific personas. It allows users to adopt different roles in various industries and provides insights on articles from the persona's perspective.
+
+## Setup
+
+**Clone the Repository:**
+   ```bash
+   git clone <repo_name>
+   cd PersonaProject
+   
+   pip install -r requirements.txt
+
+   Create a .env file in home path.
+
+   Add your API keys:
+   OPENAI_API_KEY=<your-openai-api-key>
+   PINECONE_API_KEY=<your-pinecone-api-key>
+```
+**To use Advance(Auto Merger) RAG**
+
+```
+export RAG_MODE=advanced
+```
+**Run the streamlit app use the following command:**
+
+```
+streamlit run persona.py
+```
+
+### Looking for a sample article to test our application.
+
+**Copy section of article**
+```
+Nvidia (NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion.
+
+But Nvidia isn’t the only company benefiting from the AI hype. Rival AMD (AMD) hit an all-time intraday high on Thursday, topping out at $168.60 per share. The chipmaker is up 94% through the last 12 months. Shares of Intel (INTC) jumped 57% over the same period.
+
+Nvidia got a huge vote of confidence on Thursday when Meta (META) CEO Mark Zuckerberg announced that the company is spending billions of dollars to acquire thousands of Nvidia chips for its AI projects. In an Instagram Reels post, Zuckerberg said Meta will build out AI infrastructure complete with 350,000 Nvidia H100 chips by the end of 2024 with the goal of developing general artificial intelligence.Zuckerberg also said he wants to make Meta’s general AI open source, allowing others to use and work with it.
+```
+**Copy complete article**
+
+```
+Nvidia (NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion.
+
+But Nvidia isn’t the only company benefiting from the AI hype. Rival AMD (AMD) hit an all-time intraday high on Thursday, topping out at $168.60 per share. The chipmaker is up 94% through the last 12 months. Shares of Intel (INTC) jumped 57% over the same period.
+
+Nvidia got a huge vote of confidence on Thursday when Meta (META) CEO Mark Zuckerberg announced that the company is spending billions of dollars to acquire thousands of Nvidia chips for its AI projects. In an Instagram Reels post, Zuckerberg said Meta will build out AI infrastructure complete with 350,000 Nvidia H100 chips by the end of 2024 with the goal of developing general artificial intelligence.Zuckerberg also said he wants to make Meta’s general AI open source, allowing others to use and work with it.
+Nvidia is the world leader in AI chip development, with an estimated market share of between 70% and 90% of the global market. But it’s not just Nvidia’s hardware that helps it stay ahead of its rivals. The company’s Cuda software, which developers use to create AI platforms, also serves as a moat that keeps Nvidia above the fray.
+
+That said, Nvidia’s rivals are gathering with the intent of snatching market share. In December, AMD debuted its MI300 accelerator, which is designed to go head-to-head with Nvidia’s data center accelerators. Intel, meanwhile, is building out its own Gaudi3 AI accelerator, which will also compete with Nvidia’s offerings.
+
+It’s not just AMD and Intel, though. Hyperscalers, which include cloud service providers Microsoft (MSFT), Google (GOOG, GOOGL), and Amazon (AMZN), as well as Meta, are increasingly turning to chips they develop on their own to power their AI accelerators in the form of what are known as ASICs or application-specific integrated circuits.
+
+Think of AI graphics accelerators from Nvidia, AMD, and Intel as jacks of all trades. They can be used for a litany of different AI-related tasks, ensuring that whatever a company needs, the chips can handle it.
+
+ASICs, on the other hand, are masters of a single trade. They’re built specifically for a company’s own AI needs and often are more efficient than the graphics processing units from Nvidia, AMD, and Intel.
+
+That’s a problem for Nvidia, as hyperscalers are huge spenders when it comes to AI GPUs. But as ASICs start to take hold, they may have less of a need for Nvidia’s chips.
+
+Still, the AI explosion is only beginning. And the vast majority of companies that will benefit from AI have yet to get into the game. In other words, there’s still plenty of room to grow. Even if Nvidia’s market share takes a hit, its revenue will continue to increase as the AI space booms.
+
+For now, though, Nvidia remains the AI king.
+```
+
+### Get User Feedback
+**Copy the standard output to 'logfile.txt' and run parser script.**
+```
+python3 batch/log_parser.py logfile.txt 
+```
+
+### Evaluate with TruLens
+**Copy prompts in individual files in eval_prompts folder and run truelens.py script**
+```
+python3 trulens.py
+```
