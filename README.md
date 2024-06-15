@@ -78,7 +78,7 @@ python3 batch/log_parser.py logfile.txt
 ```
 python3 trulens.py
 ```
-## Demo
+## Application Demo
 ![Architecture Diagram](resources/img/Demo%201.png)
 
 ![Architecture Diagram](resources/img/Demo%202.png)
