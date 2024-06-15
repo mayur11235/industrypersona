@@ -4,7 +4,7 @@
 This Streamlit web application leverages RAG (Retrieval-Augmented Generation) to generate industry-specific personas. It allows users to adopt different roles in various industries and provides insights on articles from the persona's perspective.
 
 ## Architecture
-![Architecture Diagram](resources/img/Architecture.png)
+![Architecture Diagram](resources/img/Architecture Diagram.png)
 
 ## Setup
 
@@ -78,3 +78,9 @@ python3 batch/log_parser.py logfile.txt
 ```
 python3 trulens.py
 ```
+## Demo
+![Architecture Diagram](resources/img/Demo1.png)
+
+![Architecture Diagram](resources/img/Demo2.png)
+
+![Architecture Diagram](resources/img/Demo3.png)
