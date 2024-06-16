@@ -32,7 +32,7 @@ export RAG_MODE=advanced
 streamlit run persona.py
 ```
 
-### Looking for a sample article to test our application.
+### Looking for a sample article to test the application.
 
 **Copy section of article**
 ```
