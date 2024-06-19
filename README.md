@@ -1,9 +1,13 @@
 # Industry Persona Application with RAG 
 ## Overview
 
-This Streamlit web application leverages RAG (Retrieval-Augmented Generation) to generate industry-specific personas. It allows users to adopt different roles in various industries and provides insights on articles from the persona's perspective.
+This Streamlit based web application leverages RAG (Retrieval-Augmented Generation) to generate industry-specific personas. It allows users to adopt different roles in various industries and provides insights on articles from the persona's perspective.
 
 ## Architecture
+
+### Data Collection & Ingestion
+![Data Ingestion](resources/img/Data%20Ingestion.png)
+### RAG Architecture
 ![Architecture Diagram](resources/img/Architecture%20Diagram.png)
 
 ## Setup
